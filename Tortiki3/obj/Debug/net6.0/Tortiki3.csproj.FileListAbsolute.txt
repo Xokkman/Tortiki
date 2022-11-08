@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Tortiki3\Tortiki3\bin\Debug\net6.0\Tortiki3.exe
+C:\Users\user\source\repos\Tortiki3\Tortiki3\bin\Debug\net6.0\Tortiki3.deps.json
+C:\Users\user\source\repos\Tortiki3\Tortiki3\bin\Debug\net6.0\Tortiki3.runtimeconfig.json
+C:\Users\user\source\repos\Tortiki3\Tortiki3\bin\Debug\net6.0\Tortiki3.dll
+C:\Users\user\source\repos\Tortiki3\Tortiki3\bin\Debug\net6.0\Tortiki3.pdb
+C:\Users\user\source\repos\Tortiki3\Tortiki3\obj\Debug\net6.0\Tortiki3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Tortiki3\Tortiki3\obj\Debug\net6.0\Tortiki3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Tortiki3\Tortiki3\obj\Debug\net6.0\Tortiki3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Tortiki3\Tortiki3\obj\Debug\net6.0\Tortiki3.AssemblyInfo.cs
+C:\Users\user\source\repos\Tortiki3\Tortiki3\obj\Debug\net6.0\Tortiki3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tortiki3\Tortiki3\obj\Debug\net6.0\Tortiki3.dll
+C:\Users\user\source\repos\Tortiki3\Tortiki3\obj\Debug\net6.0\refint\Tortiki3.dll
+C:\Users\user\source\repos\Tortiki3\Tortiki3\obj\Debug\net6.0\Tortiki3.pdb
+C:\Users\user\source\repos\Tortiki3\Tortiki3\obj\Debug\net6.0\Tortiki3.genruntimeconfig.cache
+C:\Users\user\source\repos\Tortiki3\Tortiki3\obj\Debug\net6.0\ref\Tortiki3.dll
